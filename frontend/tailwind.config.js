@@ -10,7 +10,7 @@ export default {
         "redditGray:": "#e7e7e7",
         "redditLogo": "#ff4500",
         "search": "#e5ebee",
-        "searchHover": "#dbe4e9",
+        "redditHover": "#dbe4e9",
       },
     },
   },
