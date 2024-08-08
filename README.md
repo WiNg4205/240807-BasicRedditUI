@@ -1,4 +1,4 @@
-# 08/08/24 - RedditUIBasic
+# 08/08/24 - RedditUIBasic (#11)
 This is a basic reddit ui with only the header with hovers and empty content for the layout.
 
 Today I tried experimenting with flex grid. Learning grid via tailwind definitely makes things easier. I can see potential in using grid as the bare bones layout (header, sidebar, feed etc.) but other than that it is too rigid in my opinion. Most websites nowadays are super basic in their layout so flexbox will do the job fine. I tried using grid for the header buttons but that was a horrible idea because the create button and the profile button do not follow the same rules as the other buttons. It took a while to figure out how to get the buttons looking like the actual reddit format but even then, I could not figure out how to make a gap between two specific selected items (for the profile as the right most button).
